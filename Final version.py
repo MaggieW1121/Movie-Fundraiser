@@ -52,7 +52,7 @@ def show_ticket_info(ticket_sales):
     print("There's a fundraiser program going on."
           " We need your help to raise money for people in need.")
     print()
-    print(f"Movie being shown: Avatar. {tickets_remaining} tickets remain")
+    print(f"Movie being shown: Avata. {tickets_remaining} tickets remain")
     print()
     print("---------- Ticket Price List ----------")
     for key, value in ticket_menu.items():
